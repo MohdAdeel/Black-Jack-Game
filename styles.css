@@ -1,0 +1,34 @@
+body {              /* Designing Main Body */
+    /* display: flexbox; */
+    text-align: center;
+    /* border: 2px dashed red; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("istockphoto-1292699880-170667a.jpg");
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-top: 08%;
+    background-size: cover;
+}
+
+h1 {                            /* Stupidily using h1 Here :p */
+    color: goldenrod;
+}
+
+#message-el{                    /* Changing Font Style of Message */
+    font-style: italic;
+}
+
+button {                        /* Button Design */
+    width: 250px;
+    padding: 10px;
+    font-size: 1.2rem;
+    border: none;
+    background-color: goldenrod;
+    color: #016f32  ;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 5px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
